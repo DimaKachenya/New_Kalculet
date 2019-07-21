@@ -1,0 +1,10 @@
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojAssemblyReference.cache
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+D:\C#\starter\Lesson 1\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
